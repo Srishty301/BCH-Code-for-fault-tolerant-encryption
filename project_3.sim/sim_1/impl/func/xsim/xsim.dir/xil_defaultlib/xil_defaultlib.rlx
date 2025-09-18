@@ -1,0 +1,11 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/srish/project_3/project_3.sim/sim_1/impl/func/xsim/bch_tb_func_impl.v,1758092508,verilog,,C:/Users/srish/project_3/project_3.srcs/sources_1/new/bch_encoder.v,,bch_top;glbl,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sim_1/new/bch_tb.v,1757932700,verilog,,,,bch_tb,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sources_1/new/bch_encoder.v,1757931709,verilog,,C:/Users/srish/project_3/project_3.srcs/sources_1/new/error_correction.v,,bch_encoder,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sources_1/new/error_correction.v,1757932449,verilog,,C:/Users/srish/project_3/project_3.srcs/sources_1/new/error_locator.v,,error_correction,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sources_1/new/error_locator.v,1757932503,verilog,,C:/Users/srish/project_3/project_3.srcs/sources_1/new/gf16_add.v,,error_locator,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sources_1/new/gf16_add.v,1757932452,verilog,,C:/Users/srish/project_3/project_3.srcs/sources_1/new/syndrome.v,,gf16_add,,,,,,,,
+C:/Users/srish/project_3/project_3.srcs/sources_1/new/syndrome.v,1757932400,verilog,,C:/Users/srish/project_3/project_3.srcs/sim_1/new/bch_tb.v,,syndrome,,,,,,,,

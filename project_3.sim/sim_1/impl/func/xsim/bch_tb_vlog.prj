@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"bch_tb_func_impl.v" \
+"../../../../../project_3.srcs/sources_1/new/bch_encoder.v" \
+"../../../../../project_3.srcs/sources_1/new/error_correction.v" \
+"../../../../../project_3.srcs/sources_1/new/error_locator.v" \
+"../../../../../project_3.srcs/sources_1/new/gf16_add.v" \
+"../../../../../project_3.srcs/sources_1/new/syndrome.v" \
+"../../../../../project_3.srcs/sim_1/new/bch_tb.v" \
+
+# Do not sort compile order
+nosort

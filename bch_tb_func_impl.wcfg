@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="bch_tb_func_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="bch_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="123800001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="102"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/bch_tb/data_in" type="array">
+      <obj_property name="ElementShortName">data_in[6:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/codeword" type="array">
+      <obj_property name="ElementShortName">codeword[14:0]</obj_property>
+      <obj_property name="ObjectShortName">codeword[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/received_word" type="array">
+      <obj_property name="ElementShortName">received_word[14:0]</obj_property>
+      <obj_property name="ObjectShortName">received_word[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/corrected_word" type="array">
+      <obj_property name="ElementShortName">corrected_word[14:0]</obj_property>
+      <obj_property name="ObjectShortName">corrected_word[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/S1" type="array">
+      <obj_property name="ElementShortName">S1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/S2" type="array">
+      <obj_property name="ElementShortName">S2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/S3" type="array">
+      <obj_property name="ElementShortName">S3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/S4" type="array">
+      <obj_property name="ElementShortName">S4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">S4[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/error_positions" type="array">
+      <obj_property name="ElementShortName">error_positions[14:0]</obj_property>
+      <obj_property name="ObjectShortName">error_positions[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/success" type="logic">
+      <obj_property name="ElementShortName">success</obj_property>
+      <obj_property name="ObjectShortName">success</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/file" type="array">
+      <obj_property name="ElementShortName">file[31:0]</obj_property>
+      <obj_property name="ObjectShortName">file[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/r" type="array">
+      <obj_property name="ElementShortName">r[31:0]</obj_property>
+      <obj_property name="ObjectShortName">r[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/iter" type="array">
+      <obj_property name="ElementShortName">iter[31:0]</obj_property>
+      <obj_property name="ObjectShortName">iter[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/num_errors" type="array">
+      <obj_property name="ElementShortName">num_errors[31:0]</obj_property>
+      <obj_property name="ObjectShortName">num_errors[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/pos1" type="array">
+      <obj_property name="ElementShortName">pos1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pos1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/pos2" type="array">
+      <obj_property name="ElementShortName">pos2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pos2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/N" type="array">
+      <obj_property name="ElementShortName">N[31:0]</obj_property>
+      <obj_property name="ObjectShortName">N[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bch_tb/K" type="array">
+      <obj_property name="ElementShortName">K[31:0]</obj_property>
+      <obj_property name="ObjectShortName">K[31:0]</obj_property>
+   </wvobject>
+</wave_config>
